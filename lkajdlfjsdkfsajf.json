@@ -1,17 +1,28 @@
 {
     "version": "1.0",
-    "sourceName": "Test1",
-    "sourceAuthor": "Man",
-    "sourceLinkTitle": "Blya",
-    "sourceLinkUrl": "https://google.com",
-    "sourceImage": "https://i.pinimg.com/originals/ee/5d/66/ee5d66e4f2cac2f16c11e3ac05382145.jpg",
+    "sourceName": "BDarkIPA",
+    "sourceAuthor": "business_dark",
+    "sourceLinkTitle": "Business_dark",
+    "sourceLinkUrl": "https://t.me/business_dark_ipa",
+    "sourceImage": "https://raw.githubusercontent.com/hadooooken/reposourcebox/main/2023-10-24%2023.36.14.jpg",
     "sourceUpdateTime": "2023-11-23T11:00:00+0800", 
-    "sourceDescription": "Уауауауауауа",
+    "sourceDescription":"🔍 Введите хэштег в поиск для поиска категории:\n💬 #Social - Соц. Сети и Мессенджеры;\n🎵 #Music - Музыка | 🎬 #Video - Видео и Фильмы(ТВ);\n📸 #Design - Редакторы, Камеры и Шаблоны;\n🌐 #Network - VPN, Сети, Расширения;\n👨‍💻#Office - Офис, Заметки и Календари;\n❤️ #Life - Спорт и Здоровье | 🐣 #Kids - Детям \n📚 #Study - Учеба, Навыки и Книги;\n🧳 #Travel - Карты, Погода и Авто | 🕹 #Games - Игры;\n💰 #Money - Банки и Финансы | 📱 #Other - Другие приложения.",
     "appCategories": [
         "Категории",
         "Новинки И Обновления"
     ],
     "appRepositories": [
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-11-23T08:00:00+0800",
+            "appName": "VK 6.60_VKAgain",
+            "appVersion": "3.0",
+            "appImage": "https://gbox.run/Public/images/icon.png",
+            "appPackage": "https://github.com/hadooooken/reposourcebox/raw/main/repo/VK%206.60_VKAgain%203.0.ipa",
+            "appDescription": "App的描述"
+        },
+
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
@@ -24,24 +35,25 @@
         },
 
         {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appUpdateTime": "2019-11-23T08:00:00+0800",
-            "appName": "LSearch",
-            "appVersion": "1.0",
-            "appPlist": "https://www.lanzous.com/i7rn4hi",
-            "appDescription": "VIP测试用，点下载，然后签名，再安装，如果能正常打开，则证明VIP成功"
+            "appName": "GBox",
+            "appVersion": "1.3.6",
+            "appImage": "https://gbox.run/Public/images/icon.png",
+            "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
+            "appDescription": "App的描述"
         },
 
         {
-            "appType": "LINK",
+            "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2019-12-27T9:30:00+0800",
-            "appName": "GBox官网",
-            "appVersion": "1.0",
-            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
-            "appLink": "https://gbox.run",
-            "appDescription": "网页连接测试"
+            "appUpdateTime": "2019-11-23T08:00:00+0800",
+            "appName": "GBox",
+            "appVersion": "1.3.6",
+            "appImage": "https://gbox.run/Public/images/icon.png",
+            "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
+            "appDescription": "App的描述"
         },
     ]
 }
